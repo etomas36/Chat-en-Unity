@@ -1,0 +1,4 @@
+<color=#FF338C><b>Cliente1: </b></color>hola
+<color=#FF338C><b>Cliente1: </b></color>hola que tal
+<color=#3357FF><b>Cliente3: </b></color>asdadads
+<color=#FF3383><b>Cliente2: </b></color>asdasda

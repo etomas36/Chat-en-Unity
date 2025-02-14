@@ -1,0 +1,5 @@
+<color=#A133FF><b>Cliente1: </b></color>hola
+<color=#FF33A1><b>Cliente3: </b></color>que tal
+<color=#A133FF><b>Cliente1: </b></color>bien
+<color=#A133FF><b>Cliente1: </b></color>y tu?
+<color=#3383FF><b>Cliente2: </b></color>k pasa aqui mi loko

@@ -1,0 +1,3 @@
+<color=#33FF57><b>Cliente1: </b></color>asdasd
+<color=#FF3383><b>Cliente2: </b></color>asda
+<color=#33FF57><b>Cliente1: </b></color>asd
